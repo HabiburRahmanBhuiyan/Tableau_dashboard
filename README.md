@@ -1,4 +1,4 @@
-Tableau Sales Dashboard
+
 
 This project uses Tableau to visualize overall sales performance, customer segments, and brand profitability across regions.
 
@@ -6,7 +6,8 @@ This project uses Tableau to visualize overall sales performance, customer segme
  Dashboard Screenshots
 
  Main Sales Overview
-![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard%201.png)
+
 
 
  Profit and Loss by State
