@@ -6,7 +6,7 @@ This project uses Tableau to visualize overall sales performance, customer segme
  Dashboard Screenshots
 
  Main Sales Overview
-![Dashboard](Dashboard 1.png)
+Dashboard 1.png
 
  Profit and Loss by State
 ![Profit/Loss](Screenshot_9-5-2025_194721_public.tableau.com.jpeg)
